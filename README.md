@@ -1,1 +1,1 @@
-# rezeki45
+# https://rezeki45\example
